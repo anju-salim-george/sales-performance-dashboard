@@ -22,7 +22,7 @@ This dashboard allows stakeholders to:
 - Monitor profitability by segment
 - Track trends over time for planning promotions and inventory
 
-## 📸 Sample Dashboard
+## 📸 Sales Performance Dashboard
 
 ![Sales Dashboard](dashboard_overview.png)
 
