@@ -26,3 +26,4 @@ This dashboard allows stakeholders to:
 
 ![Sales Dashboard](dashboard_overview.png)
 
+
