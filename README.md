@@ -19,7 +19,10 @@ To analyze and visualize sales trends, top-selling products, customer segments, 
 4. **Sales by Region** – Treemap.
 5. **Customer Segment Analysis** – Segment-wise sales and profit comparison.
 6. **KPIs** – Cards displaying Total Sales and Total Profit.
+   
+## 📸 Sales Performance Dashboard
 
+![Sales Dashboard](dashboard_overview.png)
 ---
 
 ## 📂 Folder Structure
